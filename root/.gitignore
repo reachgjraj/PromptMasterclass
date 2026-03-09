@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.venv/
+.idea/
+gemini_history.db
+masterclass_log.txt
